@@ -117,3 +117,7 @@ This project is designed for educational purposes at KWASU Computer Science Depa
 ## Support
 
 For technical issues or feature requests, contact the development team or submit an issue in the repository.
+
+---
+
+**Developed by: Jst Kira The Dev**
