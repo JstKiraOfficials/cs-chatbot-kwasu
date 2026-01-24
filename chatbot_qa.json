@@ -1,0 +1,274 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "Good day",
+            "Greetings",
+            "How are you?",
+            "What's up?"
+        ],
+        "responses": [
+            "Hello! How can I assist you in your CS journey?",
+            "Hi there! Need help with a CS topic?",
+            "Welcome! Ready to explore Computer Science?",
+            "Hey! I'm here to help you with anything CS-related."
+        ]
+    },
+    {
+        "tag": "programming_languages",
+        "patterns": [
+            "Which programming languages should I learn?",
+            "Best programming languages for CS students?",
+            "Python vs Java?",
+            "Should I learn C++ or Python?",
+            "Top languages for web development"
+        ],
+        "responses": [
+            "Start with Python for general-purpose programming and ease of use.",
+            "Java is excellent for OOP and used in many enterprise applications.",
+            "C++ is powerful for system-level programming and competitive coding.",
+            "JavaScript is essential for frontend web development.",
+            "For data science, Python and R are commonly used.",
+            "Go and Rust are emerging languages with modern performance and safety features."
+        ]
+    },
+    {
+        "tag": "exam_preparation",
+        "patterns": [
+            "How can I prepare for my CS exams?",
+            "Tips for computer science tests",
+            "How do I revise effectively?",
+            "Best way to study for CS courses",
+            "I'm scared of my exams. What do I do?"
+        ],
+        "responses": [
+            "Focus on understanding key concepts rather than cramming. Use visual aids like flowcharts and diagrams.",
+            "Practice past questions and coding exercises regularly.",
+            "Group discussions and explaining topics to peers improve retention.",
+            "Use platforms like GeeksforGeeks and TutorialsPoint for quick refreshers.",
+            "Manage your time well and take breaks during long study sessions.",
+            "Set up a revision timetable and stick to it. Consistency is key."
+        ]
+    },
+    {
+        "tag": "internship_guidance",
+        "patterns": [
+            "How do I find internships?",
+            "I need help getting internship in tech",
+            "Best way to get industrial training",
+            "What should I do during SIWES?",
+            "How can I make my CV good for internship?"
+        ],
+        "responses": [
+            "Update your CV and LinkedIn profile. Highlight your skills and projects.",
+            "Start applying early through platforms like LinkedIn, Jobberman, and internships.com.",
+            "Participate in hackathons, coding challenges, and open-source projects to build experience.",
+            "Reach out to lecturers and professionals in your network for recommendations.",
+            "During SIWES, focus on learning, documenting your experiences, and building your portfolio.",
+            "Prepare for interviews by practicing common CS and HR questions."
+        ]
+    },
+    {
+        "tag": "tools_and_software",
+        "patterns": [
+            "What software should I learn as a CS student?",
+            "Recommended tools for programmers?",
+            "Tools every developer should know",
+            "IDE for Python",
+            "Best code editor for beginners"
+        ],
+        "responses": [
+            "VS Code is a powerful and lightweight editor for multiple languages.",
+            "PyCharm is great for Python development with smart assistance and debugging tools.",
+            "Git and GitHub are essential for version control and collaboration.",
+            "Postman helps you test APIs and understand backend services.",
+            "For database management, learn MySQL, PostgreSQL, or MongoDB.",
+            "Docker and Git are valuable for modern development and deployment workflows."
+        ]
+    },
+    {
+        "tag": "programming_languages",
+        "patterns": [
+            "What languages should I learn?",
+            "Is Python good?",
+            "Tell me about Java",
+            "Should I learn C++?",
+            "Best programming languages for beginners"
+        ],
+        "responses": [
+            "Start with Python. It's beginner-friendly and widely used in AI, web, and scripting.",
+            "Java is great for building enterprise applications and Android apps.",
+            "C++ is useful for systems programming, game development, and performance-critical tasks.",
+            "JavaScript is essential for web development.",
+            "Learn based on your career interest. For data science, Python; for app dev, Java/Kotlin; for web, JavaScript/React."
+        ]
+    },
+    {
+        "tag": "exam_preparation",
+        "patterns": [
+            "How do I prepare for exams?",
+            "Tips for computer science exams",
+            "How to pass CS exams?",
+            "Exam revision strategies"
+        ],
+        "responses": [
+            "Review lecture slides and past questions regularly.",
+            "Focus on understanding concepts, not just memorizing code.",
+            "Practice writing code by hand and solving problems under time constraints.",
+            "Form study groups with your peers to discuss topics.",
+            "Use tools like LeetCode, HackerRank, and W3Schools for practice."
+        ]
+    },
+    {
+        "tag": "internship_guidance",
+        "patterns": [
+            "How do I get internship?",
+            "Tips for internship",
+            "Where can I apply for IT placement?",
+            "Help with SIWES"
+        ],
+        "responses": [
+            "Create a strong CV and GitHub portfolio showing your projects.",
+            "Apply to tech companies, banks, and government agencies like NITDA.",
+            "Ask your lecturers and department for placement opportunities.",
+            "Attend career fairs and use platforms like LinkedIn, Internshala, and Jobberman.",
+            "Build your skills in relevant areas like web development, networking, or Python scripting."
+        ]
+    },
+    {
+        "tag": "tools_and_software",
+        "patterns": [
+            "Best tools for CS students",
+            "What software should I install?",
+            "Coding tools",
+            "Development environments",
+            "Essential tools for programming"
+        ],
+        "responses": [
+            "Install VS Code or PyCharm for coding.",
+            "Use Git and GitHub for version control.",
+            "XAMPP or WAMP can help with local server setup for web dev.",
+            "Use Jupyter Notebook for data science and Python learning.",
+            "Other helpful tools include Postman (API testing), Figma (UI design), and Trello (project management)."
+        ]
+    },
+    {
+        "tag": "career_paths",
+        "patterns": [
+            "Career options in CS",
+            "Jobs in computer science",
+            "What can I become?",
+            "CS career opportunities",
+            "Where can I work as a CS graduate?"
+        ],
+        "responses": [
+            "CS graduates can become Software Engineers, AI Specialists, Data Scientists, Cybersecurity Analysts, etc.",
+            "Other options include Network Engineers, Game Developers, System Administrators, Cloud Engineers, and Educators.",
+            "Your career can span tech industries, finance, healthcare, academia, and more.",
+            "Choose a career path based on your interest—web dev, mobile dev, machine learning, networking, or cybersecurity."
+        ]
+    },
+    {
+        "tag": "project_ideas",
+        "patterns": [
+            "Suggest project topics",
+            "Final year project ideas",
+            "What can I build?",
+            "Sample projects for CS",
+            "Project work for 400 level"
+        ],
+        "responses": [
+            "Build an intelligent chatbot like this one!",
+            "Develop an anomaly detection system for social media.",
+            "Create a file encryption and sharing system using cryptography.",
+            "Work on a predictive model for diabetes or pneumonia diagnosis.",
+            "Other ideas: IoT farm monitoring, LMS with smart scheduling, or a mobile voting system."
+        ]
+    },
+    {
+        "tag": "software_engineering",
+        "patterns": [
+            "What is software engineering?",
+            "Software engineering vs programming",
+            "Explain SDLC",
+            "What do software engineers do?"
+        ],
+        "responses": [
+            "Software engineering applies structured processes to software development, including planning, design, coding, testing, and maintenance.",
+            "It goes beyond coding to include documentation, team collaboration, and user-centered design.",
+            "Popular methodologies include Agile, Scrum, and DevOps.",
+            "A software engineer builds scalable and maintainable systems with version control and testing in mind."
+        ]
+    },
+    {
+        "tag": "cybersecurity",
+        "patterns": [
+            "What is cybersecurity?",
+            "Learn ethical hacking",
+            "Cybersecurity careers",
+            "Common attacks in cyber",
+            "Importance of cybersecurity"
+        ],
+        "responses": [
+            "Cybersecurity protects systems and data from digital threats like malware and unauthorized access.",
+            "Common attacks include phishing, DDoS, ransomware, and SQL injection.",
+            "Tools like Wireshark, Metasploit, and Kali Linux are often used.",
+            "Ethical hacking helps organizations find and fix vulnerabilities before hackers exploit them.",
+            "It's a growing field with high demand globally."
+        ]
+    },
+    {
+        "tag": "AI_and_ML",
+        "patterns": [
+            "What is AI?",
+            "Difference between AI and ML",
+            "Learn machine learning",
+            "AI project ideas",
+            "Tools for AI"
+        ],
+        "responses": [
+            "AI is the simulation of human intelligence, while ML is about systems learning from data.",
+            "Popular tools include Python, TensorFlow, Keras, and scikit-learn.",
+            "Start with supervised learning, unsupervised learning, and then neural networks.",
+            "Projects include facial recognition, spam filtering, and recommendation systems.",
+            "Use datasets from Kaggle and experiment on Jupyter notebooks."
+        ]
+    },
+    {
+        "tag": "course_registration",
+        "patterns": [
+            "How to register courses?",
+            "Portal not opening",
+            "Help with course reg",
+            "Course registration issues",
+            "Who handles registration?"
+        ],
+        "responses": [
+            "You can register your courses through the university student portal.",
+            "Make sure you meet prerequisites for each course before selecting.",
+            "Contact your course adviser or department secretary for help.",
+            "The ICT unit can help with portal access problems.",
+            "Watch out for deadlines posted on your departmental notice board or portal."
+        ]
+    },
+    {
+        "tag": "department_policies",
+        "patterns": [
+            "CS department rules",
+            "Attendance policy",
+            "How many absences allowed?",
+            "Practical attendance",
+            "Who is the HOD?"
+        ],
+        "responses": [
+            "You must attend at least 75% of lectures and labs to sit for exams.",
+            "Missing practicals without approval may affect your grades.",
+            "Department may penalize late submissions or exam misconduct.",
+            "The Head of Department (HOD) changes periodically—check notice boards or ask your level adviser.",
+            "Keep up with your student handbook and departmental emails."
+        ]
+    }
+]
