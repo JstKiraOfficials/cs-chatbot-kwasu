@@ -24,7 +24,7 @@ An intelligent chatbot designed to assist Computer Science students at Kwara Sta
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/jstkirathedev/cs-chatbot-kwasu.git
+git clone https://github.com/jstkiraofficials/cs-chatbot-kwasu.git
 cd cs-chatbot-kwasu
 ```
 
@@ -116,8 +116,8 @@ This project is designed for educational purposes at KWASU Computer Science Depa
 
 ## Support
 
-For technical issues or feature requests, visit the [GitHub repository](https://github.com/jstkirathedev/cs-chatbot-kwasu) or submit an issue.
+For technical issues or feature requests, visit the [GitHub repository](https://github.com/jstkiraofficials/cs-chatbot-kwasu) or submit an issue.
 
 ---
 
-**Developed by: Jst Kira The Dev**
+**Developed by: Ibrahim Abdulbasit Ayomide {Jst Kira}**
